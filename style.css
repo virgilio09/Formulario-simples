@@ -1,0 +1,41 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
+
+body{
+	font-family: "Times New Roman", Times, serif;
+	background-color: #f5f5f5;
+
+}
+
+.page-header h1{
+	text-decoration: underline  #819BF2;
+	margin-bottom: 40px;
+	padding: 13px 0;
+
+
+}
+
+.login{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom: 2px solid  #819BF2;
+}
+
+.login input{
+	border: none;
+	outline: none;
+	background: none;
+	font-size: 18px;
+	width: 80%;
+	float: left; 
+	margin: 0 10px;
+}
+
+.login i{
+	width: 26px;
+	float: left;
+	text-align: center;
+}
+
